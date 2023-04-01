@@ -1,2 +1,3 @@
 1. limits-service reads properties from application properties. Cloud config server is configured to connect git repository to read properties from there. limit service connects to cloud config server to read property from git. Thus externalizing properties.
 2. limits service profile activated and properties file also modified as name-<env>.properties.
+3. currency exchange service with data jpa and config client
